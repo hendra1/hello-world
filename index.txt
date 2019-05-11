@@ -1,7 +1,0 @@
-header
-
-content 
-
-footer
-
-ganit
